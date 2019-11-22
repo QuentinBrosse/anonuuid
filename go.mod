@@ -1,4 +1,4 @@
-module github.com/QuentinBrosse/go-md2man
+module github.com/QuentinBrosse/anonuuid
 
 require (
 	github.com/gopherjs/gopherjs v0.0.0-20190812055157-5d271430af9f // indirect
